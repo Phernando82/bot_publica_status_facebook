@@ -37,7 +37,7 @@ campo_email.send_keys('nandovalverde@gmail.com')
 sleep(5)
 
 campo_senha = driver.find_element(By.ID,'pass')
-campo_senha.send_keys('Kronos82wars')
+campo_senha.send_keys('xxxxxxxxxxxxxxxx')
 sleep(5)
 
 botao_login = driver.find_element(By.NAME, 'login')
